@@ -23,7 +23,8 @@ This project demonstrates the complete PCB workflow — schematic capture, compo
 | `schematic.png` | Circuit schematic |
 | `pcb_2D_view.png` | 2D layout view |
 | `pcb_3D_view.png` | 3D board render |
-| `GERBER_View.png` | 3D board render |
+| `GERBER_View.png` |
+| `pcb_routing_view.png` |
 
 ---
 
