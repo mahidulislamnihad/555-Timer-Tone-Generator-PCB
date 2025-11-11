@@ -1,5 +1,5 @@
 # 555-Timer-Tone-Generator-PCB
-NE555 tone-generator PCB design (EasyEDA) — schematic, 2D layout, and 3D view
+NE555 tone-generator PCB design (EasyEDA) — schematic, 2D layout, 3D view, GERBER View
 
 A simple **NE555-based tone-generator circuit** designed and laid out using **EasyEDA**.  
 This project demonstrates the complete PCB workflow — schematic capture, component mapping, 2D layout, and 3D board visualization.
